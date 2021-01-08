@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 7,
+      "first_name": "Moritz",
+      "last_name": "Meere",
+      "phone_number": "248-660-6289",
+      "address": "0 Hansons Court",
+      "dob": "90/65/3272",
+      "notes": "Grass-roots hybrid monitoring"
+    },
+    {
+      "id": 8,
+      "first_name": "Jacques",
+      "last_name": "Joss",
+      "phone_number": "400-795-5016",
+      "address": "8 Springs Street",
+      "dob": "95/48/6194",
+      "notes": "Configurable contextually-based definition"
+    },
+    {
+      "id": 12,
+      "first_name": "Constantina",
+      "last_name": "Kunrad",
+      "phone_number": "457-873-3757",
+      "address": "770 Evergreen Lane",
+      "dob": "08/19/5871",
+      "notes": "Optional hybrid hierarchy"
+    },
+    {
+      "id": 18,
+      "first_name": "Audrey",
+      "last_name": "Klammer",
+      "phone_number": "2069620792",
+      "address": "99 Jersey St., #10",
+      "dob": "ddd",
+      "notes": ""
+    },
+    {
+      "id": 124,
+      "first_name": "Audrey",
+      "last_name": "Klammer",
+      "phone_number": "2069620792",
+      "address": "99 Jersey St., #10",
+      "dob": "00/33/3030",
+      "notes": "dfdfdd"
+    }
+  ]
+}
